@@ -1,0 +1,42 @@
+#app {
+    width: 100%;
+    background-color: aliceblue;
+    margin: 30px;
+}
+
+#app img{
+    height: 400px;
+    width: 500px;
+}
+
+.container {
+    text-align: center;
+}
+
+
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+}
+
+#myCarouse2 {
+    background-color: white;
+    padding: 20px;
+    margin: 25px;}
+
+#myCarouse2 img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+.gallery img{
+    height: 300px;
+    width: 300px;
+    margin-bottom: 5px;
+}
+
+.item p{
+    color: black;
+}
